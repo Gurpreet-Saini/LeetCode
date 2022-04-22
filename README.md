@@ -1,2 +1,3 @@
 # LeetCode
-Daily questions solved on leetcode
+# Data Structures and Algorithms
+Daily questions solved on leetcode 
